@@ -7,7 +7,7 @@ Requirements
 ============
 Zend-Framework-GoogleAuth has the following requirements:
 
-* PHP > 5.0
+* PHP > 5.2
 * Web Server such as Apache HTTP Server or lighttpd.
 
 Official Site
