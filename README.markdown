@@ -28,4 +28,4 @@ We want to thank so much the contributers of these projects:
 * [PHP](http://www.php.net)
 
 
-Copyright 2011 by Taizo ITO <taizoster at gmail.com>.
+Copyright 2011 by Taizo ITO <taizoster AT gmail DOT com>.
